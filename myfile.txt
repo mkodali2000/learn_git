@@ -1,4 +1,5 @@
 ONE LINE
 ADDED ON NEW BRANCH
 Yet added on new branch
+Master line added on line four
 
